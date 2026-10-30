@@ -6,4 +6,4 @@ Console.WriteLine(Greeting.GetMessage());
 Console.WriteLine($"Suma: {StatisticsHelper.CalculateSum(numbers)}");
 Console.WriteLine($"Średnia: {StatisticsHelper.CalculateAverage(numbers)}");
 Console.WriteLine($"Liczba elementów: {numbers.Length}");
-Console.WriteLine($"Średnia: {StatisticsHelper.CalculateMax(numbers)}");
+Console.WriteLine($"Największy element: {StatisticsHelper.CalculateMax(numbers)}");

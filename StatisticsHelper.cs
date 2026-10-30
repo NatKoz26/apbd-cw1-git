@@ -9,4 +9,11 @@ public static class StatisticsHelper
         }
         return sum;
     }
+    public static double CalculateAverage(int[] numbers)
+    {
+        if (numbers == null || numbers.Length == 0)
+            return 0; // Zabezpieczenie przed pustą tablicą
+            
+        return (double)CalculateSum(numbers) / numbers.Length;
+    }
 }

@@ -11,7 +11,7 @@ Po uruchomieniu program wypisuje w terminalu powitanie oraz zsumowaną wartość
 ## Instrukcja uruchomienia:
 
 ### Jak uruchomić:
-
+0.Pobierz projekt 
 1. Otwórz terminal 
 2. Przejdź do głównego folderu projektu 
 3. Wykonaj polecenie: 
